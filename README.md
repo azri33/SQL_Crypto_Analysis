@@ -1,4 +1,4 @@
-# SQL_Project_Analysis
+# SQL_Crypto_Analysis
 ## Overview
 My first SQL project focused on analyzing the performance of a cryptocurrency investment portfolio. I chose SQL to apply the concepts I had learned to real-world data sets, strengthening my practical skills and overall understanding. 
 
